@@ -1,0 +1,16 @@
+D:\Programming - Assignments & Labs\Labs\Lab 4\Lab 4\bin\Debug\net6.0-windows\Lab 4.exe
+D:\Programming - Assignments & Labs\Labs\Lab 4\Lab 4\bin\Debug\net6.0-windows\Lab 4.deps.json
+D:\Programming - Assignments & Labs\Labs\Lab 4\Lab 4\bin\Debug\net6.0-windows\Lab 4.runtimeconfig.json
+D:\Programming - Assignments & Labs\Labs\Lab 4\Lab 4\bin\Debug\net6.0-windows\Lab 4.dll
+D:\Programming - Assignments & Labs\Labs\Lab 4\Lab 4\bin\Debug\net6.0-windows\Lab 4.pdb
+D:\Programming - Assignments & Labs\Labs\Lab 4\Lab 4\obj\Debug\net6.0-windows\Lab_4.Form1.resources
+D:\Programming - Assignments & Labs\Labs\Lab 4\Lab 4\obj\Debug\net6.0-windows\Lab 4.csproj.GenerateResource.cache
+D:\Programming - Assignments & Labs\Labs\Lab 4\Lab 4\obj\Debug\net6.0-windows\Lab 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming - Assignments & Labs\Labs\Lab 4\Lab 4\obj\Debug\net6.0-windows\Lab 4.AssemblyInfoInputs.cache
+D:\Programming - Assignments & Labs\Labs\Lab 4\Lab 4\obj\Debug\net6.0-windows\Lab 4.AssemblyInfo.cs
+D:\Programming - Assignments & Labs\Labs\Lab 4\Lab 4\obj\Debug\net6.0-windows\Lab 4.csproj.CoreCompileInputs.cache
+D:\Programming - Assignments & Labs\Labs\Lab 4\Lab 4\obj\Debug\net6.0-windows\Lab 4.dll
+D:\Programming - Assignments & Labs\Labs\Lab 4\Lab 4\obj\Debug\net6.0-windows\refint\Lab 4.dll
+D:\Programming - Assignments & Labs\Labs\Lab 4\Lab 4\obj\Debug\net6.0-windows\Lab 4.pdb
+D:\Programming - Assignments & Labs\Labs\Lab 4\Lab 4\obj\Debug\net6.0-windows\Lab 4.genruntimeconfig.cache
+D:\Programming - Assignments & Labs\Labs\Lab 4\Lab 4\obj\Debug\net6.0-windows\ref\Lab 4.dll
